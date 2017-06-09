@@ -1,13 +1,17 @@
 把资源解压后移动到src文件夹下
 src目录结构如下：
 
-images:
-	bookimgs:
+images:{
+	bookimgs:{
 		...
-	inbetweenings:
+    }
+	inbetweenings:{
 		...
-novels:
+    }
+    }
+novels:{
 	...
+}
 inbetweening.json
 menu.json
 volumes.json
