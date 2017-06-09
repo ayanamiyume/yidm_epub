@@ -1,0 +1,41 @@
+@charset "UTF-8"
+
+/*CSS Reset*/
+
+/*@font-face {
+    font-family: "YaHei";
+    src:
+    local('雅黑')
+    local('YaHei')
+    url(../Fonts/yahei.ttf);
+}*/
+
+
+* {
+    margin:0;
+	padding:0;
+	border:none;
+}
+
+
+a {
+	 text-decoration: none;
+     line-height: 2.5em;
+     color: #0000ff;
+}
+
+.ttoc {
+     text-indent: 2em;
+}
+
+
+img {
+     width:100%;
+     margin: 0.9em 0;
+}
+
+blockquote{
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0 4em;
+}
